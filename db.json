@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "checked": false,
+      "content": "식사 잘 챙겨먹기",
+      "id": 2
+    },
+    {
+      "checked": false,
+      "content": "오늘 공부 열심히 하기",
+      "id": 3
+    },
+    {
+      "checked": false,
+      "content": "강아지 밥주기",
+      "id": 4
+    }
+  ]
+}
