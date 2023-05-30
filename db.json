@@ -1,19 +1,28 @@
 {
   "todos": [
     {
-      "checked": false,
+      "checked": true,
       "content": "식사 잘 챙겨먹기",
       "id": 2
     },
     {
-      "checked": false,
+      "checked": true,
       "content": "오늘 공부 열심히 하기",
       "id": 3
     },
     {
-      "checked": false,
-      "content": "강아지 밥주기",
+      "content": "강아지 밥 주기 ( 밥 주려고 했는데 잠, 근데 사료 통 드니까 깸 )",
+      "checked": true,
       "id": 4
+    },
+    {
+      "checked": false,
+      "content": "안녕 ( 이라고 내게 말하지마 )",
+      "id": 5
+    },
+    {
+      "content": "ㅇㄴㄴㄹㅇㄴㄹㅇ",
+      "id": 6
     }
   ]
 }
